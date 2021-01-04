@@ -1,4 +1,4 @@
-# Bioinformatics SVM
+# Bioinformatics
 
 ## What is Bioinformatics?
 
